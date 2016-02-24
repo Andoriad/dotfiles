@@ -1,2 +1,5 @@
 Andoriad's Dotfiles
 ===================
+
+Installation
+------------
