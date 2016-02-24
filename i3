@@ -217,5 +217,5 @@ bindsym XF86AudioPrev exec playerctl previous
 bindsym $mod+shift+x exec i3exit lock 
 bindsym XF86Sleep exec i3exit suspend
 
-exec_always feh --bg-scale /home/wouter/Afbeeldingen/wallpaper.jpg
+exec_always feh --bg-scale /home/wouter/.wallpaper.jpg
 exec compton -f
